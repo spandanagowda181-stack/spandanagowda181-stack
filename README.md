@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me:<br>
 🧑‍🎓 Student 
 | 💻 Aspiring Software Developer<br><br>📚 Learning DSA + Web Dev<br><br>🛠 Working on projects that solve everyday problems<br><br>🌟 Open to collaborations and learning opportunities<br>
 
